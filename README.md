@@ -254,27 +254,7 @@ SoumyaDeep OS is entirely client-side and does not require a backend server.
 
 ---
 
-## 📸 Screenshots
 
-Create a folder named:
-
-```text
-screenshots/
-```
-
-Recommended screenshots:
-
-```text
-screenshots/
-├── boot-screen.png
-├── desktop.png
-├── about-window.png
-├── skills-window.png
-├── projects-window.png
-├── terminal.png
-```
-
----
 
 ## 🚀 Future Enhancements
 
